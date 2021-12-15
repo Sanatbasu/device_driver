@@ -38,3 +38,4 @@ https://www.youtube.com/watch?v=aylZqpt0Ay0
 
 https://www.youtube.com/watch?v=mnDU9J7yVrc
 ## ライセンス
+[GNU General Public License v3.0]
